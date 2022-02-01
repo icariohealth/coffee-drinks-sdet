@@ -4,3 +4,5 @@
 # pytest-cov
 htmlcov/**
 .coverage
+
+.DS_Store
